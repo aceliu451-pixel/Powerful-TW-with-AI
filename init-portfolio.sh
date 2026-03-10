@@ -461,7 +461,7 @@ git clone https://github.com/aceliu451-pixel/Powerful-TW-with-AI.git
 cd Powerful-TW-with-AI
 
 # 2. Run the scaffold script (installs mkdocs-material if needed)
-chmod +x init-portfolio.sh
+
 ./init-portfolio.sh [target-dir]   # defaults to current directory
 
 # 3. Start the dev server
@@ -489,7 +489,7 @@ python3 -m mkdocs gh-deploy
 - `mkdocs-material` (auto-installed by the script)
 EOF
 
-chmod +x init-portfolio.sh
+
 
 echo ""
 echo "✅ Portfolio scaffolded successfully."
