@@ -457,8 +457,8 @@ A one-command scaffold for a Technical Writer portfolio site, built with [MkDocs
 
 ```bash
 # 1. Clone or download this repo
-git clone https://github.com/yourname/powerful-tw-with-ai.git
-cd powerful-tw-with-ai
+git clone https://github.com/aceliu451-pixel/Powerful-TW-with-AI.git
+cd Powerful-TW-with-AI
 
 # 2. Run the scaffold script (installs mkdocs-material if needed)
 chmod +x init-portfolio.sh
